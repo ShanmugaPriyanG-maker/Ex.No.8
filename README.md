@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Name : Shanmuga priyan G
+# Reg. No. 212224060245
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,5 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd205163-7241-4116-995a-cefcbc5c7806" />
